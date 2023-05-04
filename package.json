@@ -1,5 +1,5 @@
 {
-  "name": "@parrotui/ui",
+  "name": "@parrotui/parrotui",
   "description": "This is a react ui component which is built to simpilify the ui in development of a react project",
   "author": "Vasu Subbannavar",
   "keywords": [
@@ -10,13 +10,13 @@
   "license": "Apache License, Version 2.0",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Vasu7777py/ParrotUi.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Vasu7777py/ParrotUi/issues"
   },
-  "homepage": "",
-  "private": true,
+  "homepage": "https://github.com/Vasu7777py/ParrotUi#readme",
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "files": [
